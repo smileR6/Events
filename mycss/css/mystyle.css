@@ -1,0 +1,48 @@
+
+body{
+   
+   background-size: cover;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+
+.card{
+    background-color: white;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    float: right;
+}
+
+.card-image{
+    height: 300px;
+    margin-bottom: 20px;
+    background-size: cover;
+    background-position: 0%;
+    border-radius: 15px 15px 0 0;
+}
+.car-1{
+    background-image: url(../shoes/shoe5.png);
+}
+.car-2{
+    background-image: url(../shoes/shoe6.png);
+}
+.car-3{
+    background-image: url(../shoes/shoe7.png);
+}
+.car-4{
+    background-image: url(../shoes/shoe8.png);
+}
+.car-5{
+    background-image: url(../shoes/shoe9.png);
+}
+.car-6{
+    background-image: url(../shoes/shoe10.png);
+}
+
+
+    
